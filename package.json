@@ -1,0 +1,14 @@
+{
+  "name": "emoji-skin-tone-replace",
+  "version": "1.0.0",
+  "description": "Replace all the neutral emojis in a string with corresponding emojis of a specific skin tone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xregexp": "^5.0.1"
+  }
+}
